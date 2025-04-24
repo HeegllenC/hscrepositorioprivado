@@ -1,2 +1,5 @@
-def dizeroi()
-    print(dizeroi)
+def dizer_oi():
+ print("Oi!")
+
+dizer_oi()
+
