@@ -26,4 +26,4 @@ class Carro:
 
 carro3 = Carro(marca="Tesla", modelo="Y", ano=2025)
 carro3.ligar_motor()
-carro3.desligar_motor()
+carro3.desligar_motor().
